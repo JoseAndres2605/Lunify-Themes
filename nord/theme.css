@@ -1,0 +1,20 @@
+/* @name Nord */
+
+:root {
+  --bg-base: #2e3440;
+  --bg-surface: #3b4252;
+  --bg-elevated: #434c5e;
+  --bg-highlight: #4c566a;
+  --bg-card: #3b4252;
+  --bg-surface-top: #3b4252;
+  --text-primary: #eceff4;
+  --text-secondary: #d8dee9;
+  --text-subdued: #81a1c1;
+  --accent: #88c0d0;
+  --accent-hover: #8fbcbb;
+  --accent-dim: rgba(136, 192, 208, 0.15);
+  --accent-dim-hover: rgba(136, 192, 208, 0.25);
+  --accent-glow: rgba(136, 192, 208, 0.4);
+  --accent-border: rgba(136, 192, 208, 0.5);
+  --red: #bf616a;
+}
