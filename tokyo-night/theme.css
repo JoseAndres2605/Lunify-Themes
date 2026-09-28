@@ -1,0 +1,20 @@
+/* @name Tokyo Night */
+
+:root {
+  --bg-base: #1a1b2e;
+  --bg-surface: #24283b;
+  --bg-elevated: #2a2e42;
+  --bg-highlight: #343a52;
+  --bg-card: #24283b;
+  --bg-surface-top: #24283b;
+  --text-primary: #c0caf5;
+  --text-secondary: #a9b1d6;
+  --text-subdued: #565f89;
+  --accent: #7aa2f7;
+  --accent-hover: #89b4fa;
+  --accent-dim: rgba(122, 162, 247, 0.15);
+  --accent-dim-hover: rgba(122, 162, 247, 0.25);
+  --accent-glow: rgba(122, 162, 247, 0.4);
+  --accent-border: rgba(122, 162, 247, 0.5);
+  --red: #f7768e;
+}
